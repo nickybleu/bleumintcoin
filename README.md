@@ -3,7 +3,7 @@ Bleumintcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bleumintcoin-project/bleumintcoin.svg?branch=master)](https://travis-ci.org/bleumintcoin-project/bleumintcoin)
 
-https://bleumintcoin.org
+https://bleumintcoin.com
 
 What is Bleumintcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Bleumintcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bleumintcoin Core software, see [https://bleumintcoin.org](https://bleumintcoin.org).
+the Bleumintcoin Core software, see [https://bleumintcoin.com](https://bleumintcoin.com).
 
 License
 -------
