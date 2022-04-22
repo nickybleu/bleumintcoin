@@ -8,11 +8,37 @@ https://bleumintcoin.com
 What is Bleumintcoin?
 ----------------
 
-Bleumintcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bleumintcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bleumintcoin Core is the name of open source
-software which enables the use of this currency.
+Bleu Mint Coin is a blockchain-based decentralized digital platform and a medium of exchange with its own cryptocurrency. 
+BleuMintCoin uses its own independent block chain, and  it runs on its own infrastructure.
+BleuMintCoin uses the fork of Litecoin, which has much faster block chain transaction history compared to Bitcoin. BleuMintCoin has a Proof of Work consensus protocol and its hashing algorithm called Scrypt at its core. 
+Bleu, the color of both Sky and Sea, is a universally appealing color on the spectrum with non-polarizing traits. Colour bleu is associated with intelligence, knowledge, harmony, loyalty, confidence, depth or distance, infinity, and imagination. Our variant, Bleu, is a symbolic manifestation of all these traits.
+
+Technical Rationale:
+The aim of Bleu Mint coin is to provide a digital coin wallet to the public where they can invest and trade on their asset within a decentralized blockchain. 
+
+Bleu Mint Coin will build and set up mining pools for our partners and enable them to get better Hashrate to mine our coins using High Spec VPS or Cloud Servers. Bleu Mint’s mining pool partners called Mining Hubs will use servers with an ultrafast configuration (CPU Mining), which in turn have a set of miners under them. Miners will get their block rewards for validating and putting up a block chain and mining hubs will further collect their transactions fees from the miners. 
+Bleu Tokens (BleuT) to be launched very soon, BleuT will run on Solana Blockchain which is on “Proof of History Consensus. BleuT will be used as a gas fee for all products that are in the company’s road map. 
+
+Application Rationale:
+Bleu Mint Coin is owned by a Software house, Dynamic Solutions – DSAT Global with wide-ranging applications for the Supply Chain and e-commerce domain. Bleu Mint coins will be used as gas fee for a subset of our products and services in:
+●	eCommerce: Crypto currency shopping cart checkout plugin for Magento & WordPress
+●	Vehicle Maintenance: Vehicle Ownership
+●	Product Management: Preventing Counterfeit Products
+
+Community Rationale:
+The main purpose of mining this coin  to allocate 30% of the pre-mined coin to charity work done by our company’s founder through the initiative called “The Pie in the sky - Food 4 Everyone” initiative – "FEED IN NEED"  in order to support the needy with meals and address the grave issue of hunger in the most underdeveloped parts of the globe and to support UNDP goals.
+Another 10% of the pre-mined coin will be allocated to help and support women empowerment projects and the last 10% for community upliftment.
+Apart from this, a small portion of the proceeds will be allocated to support the staff who had been working in our multinational software company, operational in five countries. 
+Who are we? 
+We are a 20-year-old software company with an extensive footprint in development, implementation and support of software products across platforms for Logistics, Supply Chain and the eCommerce Industry. 
+This endeavour will tap into our internal talent and expertise in software skills with additional know-how in hardware, server, VMware and cyber-security. 
+Where are we heading in the Road Map?
+Organizational roadmap:
+With the experience and talent accrued in running a 20-year-old successful Software house, which has its own products (IP Owned) for Logistics, Supply Chain & eCommerce, we have been relentlessly pursuing to expand into community driven products.
+We have over 16 IP Owned Products which is being Licensed, Implemented and Supported in Global market. We are present in 5 countries at this juncture and our future growth plans are targeted to expand our operations in 15 countries. We cater to clients in more than 20 countries and our team supports 10 languages.
+Product Roadmap:
+Currently, we are drawing up requirements to implement Blockchain for eCommerce, Vehicle Maintenance and Product Management products, as detailed in the application rationale section.
+
 
 For more information, as well as an immediately useable, binary version of
 the Bleumintcoin Core software, see [https://bleumintcoin.com](https://bleumintcoin.com).
