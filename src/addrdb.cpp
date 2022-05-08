@@ -1,13 +1,13 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.  
 
 #include "addrdb.h"
 
 #include "addrman.h"
 #include "chainparams.h"
-#include "clientversion.h"
+#include "clientversion.h"   
 #include "hash.h"
 #include "random.h"
 #include "streams.h"
@@ -17,7 +17,7 @@
 #include <boost/filesystem.hpp>
 
 CBanDB::CBanDB()
-{
+{   
     pathBanlist = GetDataDir() / "banlist.dat";
 }
 
