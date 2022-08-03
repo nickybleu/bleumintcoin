@@ -28,10 +28,10 @@ Drag Bleumintcoin-Core to your applications folder, and then run Bleumintcoin-Co
 
 ### Need Help?
 
-* See the documentation at the [Bleumintcoin Wiki](https://bleumintcoin.info/)
+* See the documentation at the [Bleumintcoin Wiki](https://bleumintcoin.com/)
 for help and more information.
 * Ask for help on [#bleumintcoin](http://webchat.freenode.net?channels=bleumintcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=bleumintcoin).
-* Ask for help on the [BleumintcoinTalk](https://bleumintcointalk.io/) forums.
+* Ask for help on the [BleumintcoinTalk](https://bitcointalk.org/index.php?topic=5398204.0) forums.
 
 Building
 ---------------------
@@ -61,7 +61,7 @@ The Bleumintcoin repo's [root README](/README.md) contains relevant information 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [BleumintcoinTalk](https://bleumintcointalk.io/) forums.
+* Discuss on the [BleumintcoinTalk](https://bitcointalk.org/index.php?topic=5398204.0) forums.
 * Discuss general Bleumintcoin development on #bleumintcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=bleumintcoin-dev).
 
 ### Miscellaneous
