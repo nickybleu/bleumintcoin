@@ -30,7 +30,7 @@ base_uint<BITS>& base_uint<BITS>::operator<<=(unsigned int shift)
         if (i + k + 1 < WIDTH && shift != 0)
             pn[i + k + 1] |= (a.pn[i] >> (32 - shift));
         if (i + k < WIDTH)
-            pn[i + k] |= (a.pn[i] << shift);
+            pn[i + k] |= (a.pn[i] << shift); 
     }
     return *this;
 }
