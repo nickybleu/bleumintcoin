@@ -1,0 +1,14 @@
+List of APIs of Bleumint Coin Server
+
+#	Name	                        Endpoints
+1	GetSupply	                    65.108.169.160:3001/ext/getmoneysupply
+2	Explorer Link	                http://explorer.bleumintcoin.com:3001/
+3	Richlist link	                http://explorer.bleumintcoin.com:3001/richlist
+4	GetDifficulty -	              http://65.108.169.160:3001/api/getdifficulty
+5	GetConnectionCount -	        http://65.108.169.160:3001/api/getconnectioncount
+6	GetBlockCount -	              http://65.108.169.160:3001/api/getblockcount
+7	ListTransactions -	          http://65.108.169.160:3001/ext/listtransactions/<Wallet ID>
+8	GetBalance -	                http://65.108.169.160:3001/ext/getbalance/<Wallet ID>
+9	GetNewAddress -	              http://65.108.169.160:3001/api/getnewaddress
+10	QRCode (/qr/hash) -	        http://65.108.169.160:3001/qr/<Wallet ID>
+11	GetPeerInfo -	              http://65.108.169.160:3001/api/getpeerinfo
