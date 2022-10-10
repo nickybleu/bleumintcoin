@@ -1,7 +1,7 @@
 List of APIs of Bleumint Coin Server
 
 #	Name	                        Endpoints
-1	GetSupply	                    65.108.169.160:3001/ext/getmoneysupply
+1	GetSupply	                    http://65.108.169.160:3001/ext/getmoneysupply
 2	Explorer Link	                http://explorer.bleumintcoin.com:3001/
 3	Richlist link	                http://explorer.bleumintcoin.com:3001/richlist
 4	GetDifficulty -	              http://65.108.169.160:3001/api/getdifficulty
