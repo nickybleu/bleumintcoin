@@ -2,6 +2,7 @@
 // Copyright (c) 2009-2016 The Bitcoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
+//New update for coin code on 12/10/2022
 
 #include "amount.h"
 
@@ -18,7 +19,7 @@ CFeeRate::CFeeRate(const CAmount& nFeePaid, size_t nBytes_)
         nSatoshisPerK = nFeePaid * 1000 / nSize;
     else
         nSatoshisPerK = 0;
-}
+} 
 
 CAmount CFeeRate::GetFee(size_t nBytes_) const
 {
