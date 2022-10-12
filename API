@@ -1,4 +1,4 @@
-List of APIs of Bleumint Coin Server
+List of APIs of Bleumint Coin Server  
 
 #	Name	                        Endpoints
 1	GetSupply	                    http://65.108.169.160:3001/ext/getmoneysupply
